@@ -28,7 +28,7 @@ public abstract class BaseDisc {
     }
 
     public String getBasicInfo(){
-        return "Name: " + name + "Capacity: " + capacity;
+        return "Name: " + name + " Capacity: " + capacity;
     }
 
 }

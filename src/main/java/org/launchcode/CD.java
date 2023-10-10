@@ -22,7 +22,7 @@ public class CD extends BaseDisc implements OpticalDisc {
     }
 
     public void playSong(){
-        System.out.println("Playing song by " + artist);
+        System.out.println("Playing song by " + artist + ".");
     }
 
 
